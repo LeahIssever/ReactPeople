@@ -1,0 +1,6 @@
+@ReactPeople.Web_HostAddress = http://localhost:5048
+
+GET {{ReactPeople.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
